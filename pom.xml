@@ -30,9 +30,9 @@
 		</dependency>
 		
 		<dependency>
-			<groupId>com.oracle.jdbc</groupId>
-			<artifactId>ojdbc7</artifactId>
-			<version>12.1.0.2</version>
+    		<groupId>mysql</groupId>
+    		<artifactId>mysql-connector-java</artifactId>
+    		<version>8.0.27</version><!--$NO-MVN-MAN-VER$-->
 		</dependency>
 
 		<dependency>
